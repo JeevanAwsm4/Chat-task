@@ -1,0 +1,18 @@
+Font Family :inter
+link:https:https://fonts.google.com/specimen/Inter
+
+Font Size - 
+H1 :24px
+H2 :20px
+H3 :18px
+H4 :16px
+H4 :14px
+
+Colours -
+Black:0A0E0F
+Black2:161B1C
+Grey :252C2E
+light Blue:48A5C3
+Blue :2B6BC5
+
+
