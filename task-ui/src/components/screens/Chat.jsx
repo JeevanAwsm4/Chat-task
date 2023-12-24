@@ -236,7 +236,9 @@ const MediaCount = styled.span``
 const Viewall = styled.a``
 const FilesSection = styled.div``
 const FilesCount = styled.span``
-const MainChat = styled.section``;
+const MainChat = styled.section`
+    margin-left:575px;
+`;
 
 
 const Header = styled.header`

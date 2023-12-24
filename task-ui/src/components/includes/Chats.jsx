@@ -222,6 +222,7 @@ background: #252C2E;
 color : #fff;
 width : 450px;
 margin-left : 125px;
+position:fixed;
 `;
 
 const MessagesText = styled.h2`
